@@ -8,7 +8,6 @@ olive-classifier/
 ├── dataset/              # Folder where you place olive patch images (not on GitHub)
 ├── src/
 │   └── train.py          # Main training script
-├── sample_dataset/       # (Optional) Contains a few dummy images
 ├── olive_model.h5        # Saved model (optional)
 ├── requirements.txt      # Dependencies
 ├── README.md             # Project description and instructions
