@@ -69,7 +69,7 @@ python src/train.py
 During training, the script shows class indices and logs accuracy/loss. The model will be saved after training.
 
 ## ✍️ Author
-Your Name – AI Engineering Student @ HIDE (Higher Institute of Digital Engineering), Tunis 🇹🇳
+Team KHALLIHA 3ALA LAHH – AI Engineering Students @ HIDE (Higher Institute of Digital Engineering), Tunis 
 
 ## 📜 License
 This project is open source under the MIT License. You may adapt it for academic or research purposes.
